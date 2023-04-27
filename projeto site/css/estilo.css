@@ -1,0 +1,19 @@
+.banner{
+    width: 100%;
+}
+
+header{
+    background-color: dimgrey;
+}
+
+.container{
+    width: 80%;
+    background-color:aquamarine;
+    margin: auto;
+
+}
+
+footer{
+    background-color: lawngreen;
+    width: 100%;
+}
